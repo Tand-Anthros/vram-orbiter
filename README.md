@@ -7,5 +7,5 @@ If a more recent task is running on one of the backends, the other backend will 
 
 run (запуск)
 ```
-python vram_orbiter.py
+python vram_arbiter.py
 ```
